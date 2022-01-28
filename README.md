@@ -27,8 +27,8 @@ There are two main pages:
 
 ## Run it locally 🖥
 ```bash
-$ git clone Furqan01810/GSIV20_Furqan_Ahmad
-$ npm install # to install node packages.
+$ clone it
+$ install node packages.
 $ npm start # to run the app in development mode
 ```
 Then open `localhost:3000` on browser to see the app.
