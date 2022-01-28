@@ -1,0 +1,14 @@
+.card {
+    margin-top: 0.5em;
+}
+
+.card-body {
+    height: 100px;
+}
+
+.card .card-img-top {
+    height: 284px;
+    max-width: 208px;
+    align-self: center;
+    padding-bottom: 1em;
+}
